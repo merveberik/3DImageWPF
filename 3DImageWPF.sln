@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DImageWPF", "3DImageWPF\3DImageWPF.csproj", "{E7D00E09-2ECB-4000-8346-A430CBAB2C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7D00E09-2ECB-4000-8346-A430CBAB2C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D00E09-2ECB-4000-8346-A430CBAB2C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D00E09-2ECB-4000-8346-A430CBAB2C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D00E09-2ECB-4000-8346-A430CBAB2C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AAB611E-655F-4FA5-84A6-6E2A39EFB8CB}
+	EndGlobalSection
+EndGlobal
